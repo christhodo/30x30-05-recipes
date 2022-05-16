@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Brisket",
+      "ingredients": "Brisket, salt, pepper",
+      "temperature": "225",
+      "time": "10 hours"
+    },
+
+    {
+      "id": "uMvsd6i",
+      "name": "Pork Roast",
+      "ingredients": "salt, pepper, cherry rub",
+      "temperature": "275",
+      "time": "14"
+    }
+  ]
+}
